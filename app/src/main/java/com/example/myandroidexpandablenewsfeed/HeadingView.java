@@ -57,7 +57,7 @@ public class HeadingView {
 
     @Collapse
     private void onCollapse() {
-        imageToggle.setImageDrawable(mContext.getResources().getDrawable(R.drawable.ic_expand_more_white_24dp));
+        imageToggle.setImageDrawable(mContext.getResources().getDrawable(R.drawable.ic_expand_less_white_24dp));
     }
 
 
